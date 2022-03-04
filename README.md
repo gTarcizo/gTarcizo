@@ -2,7 +2,7 @@
 - 🙋🏻‍♂️ I’m 21 
 - 🌐 I’m Brazillian :brazil:
 - 🤓 My aim is learn as much as possible!!
-- 🥰 Actually, I’m in luv for Front-end
+- 🥰 Actually, I’m in luv with Front-end
 
 <div align="left">
   <a href="https://github.com/gTarcizo">
