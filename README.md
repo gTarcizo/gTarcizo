@@ -4,7 +4,7 @@
 - 🤓 My aim is learn as much as possible!!
 - 🥰 Actually, I’m in luv for Front-end
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/gTarcizo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gTarcizo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gTarcizo&layout=compact&langs_count=7&theme=tokyonight"/>
