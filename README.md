@@ -1,4 +1,4 @@
-## SALVE! Sou o Gabriel Tarcizo!
+## SALVE! I am Gabriel Tarcizo!
 - 🙋🏻‍♂️ I’m 21 
 - 🌐 I’m Brazillian :brazil:
 - 🤓 My aim is learn as much as possible!!
