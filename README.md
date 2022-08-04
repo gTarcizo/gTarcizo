@@ -1,6 +1,6 @@
 ## SALVE! I am Gabriel Tarcizo!
 - 🙋🏻‍♂️ I’m 21 
-- 🌐 I’m Brazillian :brazil:
+- 🌐 I’m Brazilian :brazil:
 - 🤓 My aim is learn as much as possible!!
 - 🥰 Actually, I’m in luv with Front-end
 
