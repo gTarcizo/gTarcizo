@@ -17,7 +17,7 @@
     
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     
 ##
     
@@ -29,7 +29,8 @@
     
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-
+  
+  
 ##
     
   <img align="right" alt="Tarcizo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/943609633375940640/949118089117728788/download20220304222017.png">
