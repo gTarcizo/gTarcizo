@@ -12,13 +12,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gTarcizo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block" align="left"><br>
+  
+##
+  
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 ##
     
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"> 
+  
 ##
     
   <img align="center" alt="Tarcizo-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,13 +32,13 @@
 
     
 ##
-    
-  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   
 ##
-    
+  
   <img align="right" alt="Tarcizo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/943609633375940640/949118089117728788/download20220304222017.png">
 </div>
   
