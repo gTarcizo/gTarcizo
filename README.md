@@ -1,9 +1,8 @@
 ## SALVE! I am Gabriel Tarcizo!
-- 🙋🏻‍♂️ I’m 22 
-- 🌐 I’m Brazilian :brazil:
-- 🤓 My aim is learn as much as possible!!
-- 🥰 Actually, I’m in luv with Front-end
-
+- 🙋🏻‍♂️ I’m 22 ;
+- 🌐 I’m Brazilian :brazil: ;
+- 🏃🏻‍♂️ My dream is to become a great dev learning as much as possible ;
+- 🤓 Actually, I’m currently working for a company that uses ASP.NET on projects ;
 ##
 
 <div align="left">
@@ -17,17 +16,19 @@
   
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+    
 ##
     
-  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"> 
-  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"> 
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  
   
 ##
     
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Tarcizo-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tarcizo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
@@ -37,6 +38,7 @@
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Tarcizo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   
 ##
   
