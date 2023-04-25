@@ -2,7 +2,7 @@
 - 🙋🏻‍♂️ I’m 22 ;
 - 🌐 I’m Brazilian :brazil: ;
 - 🏃🏻‍♂️ My dream is to become a great dev learning as much as possible ;
-- 🤓 Actually, I’m currently working for a company that uses ASP.NET on projects ;
+- 🤓 Currently, I’m currently working for a company that uses ASP.NET on projects ;
 ##
 
 <div align="left">
