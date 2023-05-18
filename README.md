@@ -5,6 +5,10 @@
 - 🤓 I’m currently working for a company that uses ASP.NET on projects ;
 ##
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gTarcizo&color=blueviolet" alt="profile-views" /> </p>
+
+##
+
 <div align="left">
   <a href="https://github.com/gTarcizo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gTarcizo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
