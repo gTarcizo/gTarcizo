@@ -1,8 +1,8 @@
 ## SALVE! I am Gabriel Tarcizo!
-- 🙋🏻‍♂️ I’m 22 ;
+- 🙋🏻‍♂️ I’m 24 ;
 - 🌐 I’m Brazilian :brazil: ;
-- 🏃🏻‍♂️ My dream is to become a great dev learning as much as possible ;
-- 🤓 I’m currently working for a company that uses ASP.NET on projects ;
+- 🏃🏻‍♂️ My dream is to become a great dev learning as much as possible;
+- 🤓 I’m currently working for a company that uses ASP.NET Core on projects;
 ##
 
 <div align="left">
