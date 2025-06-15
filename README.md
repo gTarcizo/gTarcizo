@@ -1,8 +1,8 @@
 ## SALVE! I am Gabriel Tarcizo!
 - 🙋🏻‍♂️ I’m 24;
-- 🏃🏻‍♂️ My dream is to become a great dev learning as much as possible;
+- 👨🏻‍💻 My dream is to become a great dev learning as much as possible;
 - 💻 Currently working for a company that uses ASP.NET Core on it's main project;
-- 🤓 I graduated in Software and Systems Analysis, and now I am a postgraduate student in Software Engineering;
+- 🤓 I graduated in Software and Systems Analysis, and I am also postgraduated in Software Engineering;
 ##
 
 <div align="left">
